@@ -30,7 +30,7 @@
             android:layout_height="wrap_content"
             android:gravity="center"
             android:transitionName="trans_title"
-            android:text="@string/sign_in_question"
+            android:text= "@string/sign_in_question"
             android:textColor="@color/orange"
             android:textSize="22dp" />
 
