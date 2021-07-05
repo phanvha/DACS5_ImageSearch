@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "781164128628",
+    "project_id": "zipp-b71b3",
+    "storage_bucket": "zipp-b71b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781164128628:android:e806604b12bd983925e421",
+        "android_client_info": {
+          "package_name": "com.utt.zipapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781164128628-um26vplp4dbq71fkg3mcj0a92gvfee02.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.utt.zipapp",
+            "certificate_hash": "60f4159eececa8c23da9b3792eb6c0ac787a68c5"
+          }
+        },
+        {
+          "client_id": "781164128628-ru0ncpeln4u3a2e879btoe5suomvoqk8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjGJiZxZzwpoJjBTYQswK5tvZ-l5RhYeU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781164128628-ru0ncpeln4u3a2e879btoe5suomvoqk8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
